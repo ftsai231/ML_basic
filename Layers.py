@@ -30,7 +30,6 @@ class Net(nn.Module):
 
         output = F.log_softmax(x)
 
-
         return output
 
 
