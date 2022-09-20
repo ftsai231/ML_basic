@@ -1,3 +1,5 @@
+# https://www.askpython.com/python/examples/k-nearest-neighbors-from-scratch
+
 import numpy as np
 from scipy.stats import mode
 
